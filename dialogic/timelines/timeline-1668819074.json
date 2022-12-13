@@ -1,0 +1,369 @@
+{
+	"events": [
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 2,
+			"waiting_skippable": false
+		},
+		{
+			"character": "character-1668817926.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "hey, so what gender are you again?"
+		},
+		{
+			"choice": "1- i dont fuckin know, man",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1668821868.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "i don't fucking know, man"
+		},
+		{
+			"choice": "2- i dont think it matters that much",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1668821868.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "i dont think it matters that much"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1668817926.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "yeah,\n i mean its all just cultural references, isnt it"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 3,
+			"waiting_skippable": false
+		},
+		{
+			"character": "character-1668817926.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "and internal references, i guess"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 10,
+			"waiting_skippable": false
+		},
+		{
+			"emit_signal": "hide_bubble",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1668821868.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": ""
+		},
+		{
+			"choice": "1- so, what do you do for work?",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"emit_signal": "show_bubble",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1668821868.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "so, what do you do for work?"
+		},
+		{
+			"character": "character-1668817926.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "uh..\n im not real, so i don't really need to work"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 5,
+			"waiting_skippable": false
+		},
+		{
+			"character": "character-1668817926.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "i guess this is work? \nits all i really do"
+		},
+		{
+			"character": "character-1668821868.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "wouldnt that be, like, defining life in terms of work?"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 1,
+			"waiting_skippable": false
+		},
+		{
+			"character": "character-1668817926.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "oh, yeah, capitalism bad and all that"
+		},
+		{
+			"choice": "2- nice day, isn't it",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"emit_signal": "show_bubble",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "character-1668821868.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "nice day, isn't it?"
+		},
+		{
+			"character": "character-1668817926.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "real nice.\nlotta...\nshapes"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 3,
+			"waiting_skippable": false
+		},
+		{
+			"character": "character-1668817926.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "shapes o rama, really"
+		},
+		{
+			"choice": "1- they're pretty good shapes",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1668821868.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "they [wave amp=50 freq=4]are[/wave] pretty cool shapes tho"
+		},
+		{
+			"character": "character-1668817926.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "im sorry to hear that"
+		},
+		{
+			"choice": "2- shapes killed my mother",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1668821868.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "shapes killed my mother"
+		},
+		{
+			"character": "character-1668817926.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "well good for you!"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 5
+		},
+		{
+			"character": "character-1668817926.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "so...\nwhat do you like to do for fun?"
+		},
+		{
+			"choice": "1- kitchen sponges",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1668821868.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "kitchen sponges. theyre just so spongy u kno"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 3
+		},
+		{
+			"character": "character-1668817926.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "spongerific"
+		},
+		{
+			"choice": "2- beanbag chair",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1668821868.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[rainbow]B E A N B A G  C H A I R[/rainbow]"
+		},
+		{
+			"character": "character-1668817926.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "alright then"
+		},
+		{
+			"choice": "3- sex",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1668821868.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "sex"
+		},
+		{
+			"character": "character-1668817926.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "sex"
+		},
+		{
+			"character": "character-1668821868.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "sex"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 3,
+			"waiting_skippable": false
+		},
+		{
+			"character": "character-1668817926.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "sex"
+		},
+		{
+			"character": "character-1668821868.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "sex"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 5,
+			"waiting_skippable": false
+		},
+		{
+			"character": "character-1668817926.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "sex"
+		},
+		{
+			"choice": "4- cow",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1668821868.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "cow. do you like to do cow?"
+		},
+		{
+			"character": "character-1668817926.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "i havent as of yet but id like to try"
+		},
+		{
+			"character": "character-1668821868.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "you should. its very fulfilling!"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"emit_signal": "main_ended",
+			"event_id": "dialogic_040"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1668819074.json",
+		"name": "start"
+	}
+}
